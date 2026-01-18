@@ -14,9 +14,9 @@ The project includes comprehensive data preprocessing, feature scaling, model tr
 
 ## 👤 Author
 
-[Your LinkedIn Profile](https://www.linkedin.com/in/vineetkrsrivastava/)
+[https://www.linkedin.com/in/vineetkrsrivastava/]
 
-📧 Email: [your.email@example.com](mailto:communication.vineet@gmail.com) - Feel free to reach out for queries!
+📧 Email: [mailto:communication.vineet@gmail.com] - Feel free to reach out for queries!
 
 ## ✨ Key Features
 
