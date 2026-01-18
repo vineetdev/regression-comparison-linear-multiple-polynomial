@@ -12,6 +12,16 @@ This project explores the relationship between weather conditions, temporal feat
 
 The project includes comprehensive data preprocessing, feature scaling, model training, evaluation metrics (R², MSE), residual analysis, and visualizations to compare model performance.
 
+## 📸 Application Screenshots
+
+Here are some snapshots of the interactive Streamlit application:
+
+### Dataset Overview
+![Dataset Overview](Dataset.png)
+
+### Simple Linear Regression
+![Simple Linear Regression](SimpleLinearRegression.png)
+
 ## 👤 Author
 
 [https://www.linkedin.com/in/vineetkrsrivastava/]
@@ -74,16 +84,6 @@ The project uses the **Bike Sharing Dataset** (`day.csv`) containing:
 - **731 records** with **16 features**
 - Features include: temperature, humidity, windspeed, season, weather conditions, holidays, and temporal variables
 - Target variable: `cnt` (total bike rental count)
-
-## 📸 Application Screenshots
-
-Here are some snapshots of the interactive Streamlit application:
-
-### Dataset Overview
-![Dataset Overview](Dataset.png)
-
-### Simple Linear Regression
-![Simple Linear Regression](SimpleLinearRegression.png)
 
 ## 🚀 Setup and Installation
 
