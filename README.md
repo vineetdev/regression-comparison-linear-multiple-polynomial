@@ -184,26 +184,6 @@ regression-comparison-linear-multiple-polynomial/
 └── README.md                     # This file
 ```
 
-## 📈 Results Summary
-
-### Model Performance Comparison
-
-| Model | R-Squared (R²) | MSE | Performance |
-|-------|----------------|-----|-------------|
-| **Simple Linear Regression** | 0.4037 (40.37%) | - | Moderate |
-| **Multiple Linear Regression** | 0.4995 (49.95%) | 2,007,059.49 | **Best** |
-| **Polynomial Regression** | 0.3936 (39.36%) | 2,431,396.49 | Moderate |
-
-### Key Findings
-
-1. **Multiple Linear Regression** achieved the highest R² score of **49.95%**, explaining approximately **50% of the variance** in bike rental counts.
-
-2. Adding multiple features (weather conditions, seasonal factors, temporal variables) improved model performance by **~10 percentage points** compared to simple linear regression.
-
-3. The polynomial regression model performed slightly worse than simple linear regression, suggesting the relationship is primarily **linear** rather than quadratic.
-
-4. Residual analysis shows random scatter around zero, indicating models are not systematically biased, though substantial unexplained variance remains.
-
 ## 🔧 Technologies Used
 
 - **Python 3.7+**
